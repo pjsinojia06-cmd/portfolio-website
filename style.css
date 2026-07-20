@@ -64,6 +64,7 @@ td,th{
     body{
     font-size:22px;
     padding-top:80px;
+    background-color: rgb(185, 226, 207);
     }
     a{
         font-size: 30px;
@@ -81,7 +82,7 @@ td,th{
     }
     #home,#profile,#skills,#projects,#contact{
         font-size:22px;
-        background-color:rgba(103,173,173,0.5);
+        background-color:rgb(12, 179, 179);
         border-radius:15px;
         box-shadow: 10px 30px 30px 3px rgb(24, 23, 23, 0.4);
     }
