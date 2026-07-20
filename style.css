@@ -37,13 +37,13 @@ div{
     font-size: 30px;
     margin: auto;
     width: 100%;
-    box-shadow: 10px 30px 30px 3px rgb(24, 23, 23, 0.4);
+    box-shadow: 10px 30px 30px 3px rgba(24, 23, 23, 0.4);
 }
 #home,#profile,#skills,#projects,#contact{
     background-color: rgb(103, 173, 173,0.5);
     border-radius: 15px;
     font-size: 30px;
-    box-shadow: 10px 30px 30px 3px rgb(24, 23, 23, 0.4);
+    box-shadow: 10px 30px 30px 3px rgba(24, 23, 23, 0.4);
 }
 table{
     border: 3px solid black;
@@ -69,12 +69,12 @@ td,th{
     a{
         font-size: 30px;
         margin: 10px;
-        box-shadow: 10px 30px 30px 3px rgb(24, 23, 23, 0.4);
+        box-shadow: 10px 30px 30px 3px rgba(24, 23, 23, 0.4);
     }
     nav{
         font-size:20px;
         width: 100%;
-        box-shadow: 10px 30px 30px 3px rgb(24, 23, 23, 0.4);
+        box-shadow: 10px 30px 30px 3px rgba(24, 23, 23, 0.4);
     }
     img{
         width:100%;
@@ -84,7 +84,7 @@ td,th{
         font-size:22px;
         background-color:rgb(12, 179, 179);
         border-radius:15px;
-        box-shadow: 10px 30px 30px 3px rgb(24, 23, 23, 0.4);
+        box-shadow: 10px 30px 30px 3px rgba(24, 23, 23, 0.4);
     }
     table{
         width:100%;
