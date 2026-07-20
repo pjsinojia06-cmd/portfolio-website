@@ -5,6 +5,9 @@ body{
     font-size: 30px;
     margin-top: 80px;
 }
+html{
+    scroll-behavior: smooth;
+}
 pre{
     white-space: pre-wrap;
 }
